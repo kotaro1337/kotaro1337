@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @kotaro1337
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Discord Presence](https://lanyard.cnrad.dev/api/871257848804442202)](https://discord.com/users/871257848804442202)
+```python
+Kotaro = 'Dev'
+print(f'Follow {Kotaro} on Github')
+```
+```python
+       OS  :  Ubuntu 20.04.1 LTS
+   Python  :  python 3.9.13
+Languages  :  Python, Java, Js, Batch, C, HTML/CSS
+  Discord  :  discord.gg/nudos
+   Server  :  None
+```
 
-<!---
-kotaro1337/kotaro1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```json
+Be humble Always.
+```
