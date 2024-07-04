@@ -6,7 +6,7 @@ print(f'Follow {Kotaro} on Github')
 ```python
        OS  :  Ubuntu 20.04.1 LTS
    Python  :  python 3.9.13
-Languages  :  Python, Java, Js, Batch, C, HTML/CSS
+Languages  :  Python, Java, Js, Batch, C, Lua, HTML/CSS
   Discord  :  discord.gg/nudos
    Server  :  None
 ```
