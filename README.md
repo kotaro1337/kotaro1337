@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/871257848804442202)](https://discord.com/users/871257848804442202)
+
 ```python
 Kotaro = 'Dev'
 is-online? = false
